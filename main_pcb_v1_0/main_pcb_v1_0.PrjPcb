@@ -39,7 +39,7 @@ ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=2
 CrossRefLocationStyle=1
-CrossRefPorts=3
+CrossRefPorts=1
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=0
@@ -319,6 +319,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBRFXNRQ
+
+[Document17]
+DocumentPath=main_pcb.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -1049,6 +1066,12 @@ Type127=1
 Type128=1
 Type129=1
 Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
 
 [Difference Levels]
 Type1=1
@@ -1246,6 +1269,7 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
