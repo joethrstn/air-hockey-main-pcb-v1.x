@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
@@ -100,23 +101,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UBBIIGBD
 
 [Document4]
-DocumentPath=Goal_Sensing.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=600
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KCKEBGRH
-
-[Document5]
 DocumentPath=Relay_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=700
@@ -133,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUVTNLDK
 
-[Document6]
+[Document5]
 DocumentPath=air_hockey_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFXZDJLW
 
-[Document7]
+[Document6]
 DocumentPath=5V_Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
@@ -167,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDHSNKLJ
 
-[Document8]
+[Document7]
 DocumentPath=3V3_Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
@@ -184,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PIJFKVRF
 
-[Document9]
+[Document8]
 DocumentPath=MAX3232.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=800
@@ -201,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWNACYGX
 
-[Document10]
+[Document9]
 DocumentPath=air_hockey_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGEHIGHW
 
-[Document11]
+[Document10]
 DocumentPath=Shutdown_Nodes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=900
@@ -235,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUYJBGIS
 
-[Document12]
+[Document11]
 DocumentPath=Monitoring.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1000
@@ -252,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EPNLERLZ
 
-[Document13]
+[Document12]
 DocumentPath=Operations_Microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1100
@@ -269,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QZTADQLZ
 
-[Document14]
+[Document13]
 DocumentPath=Power_Architecture.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
@@ -286,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKQDITFN
 
-[Document15]
+[Document14]
 DocumentPath=Operations_Architecture.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=500
@@ -303,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALIBTTYP
 
-[Document16]
+[Document15]
 DocumentPath=Controls_Architecture.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1200
@@ -320,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBRFXNRQ
 
-[Document17]
+[Document16]
 DocumentPath=main_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
